@@ -5,6 +5,8 @@
   <source src="https://raw.githubusercontent.com/robogast/blasius-speurtocht/master/mp3/stap3-foto.mp3" type="audio/mpeg">
 </audio>
 
+![](../img/locatie-3-foto.png)
+
 ## Vraag
 <audio controls>
   <source src="https://raw.githubusercontent.com/robogast/blasius-speurtocht/master/mp3/stap3-vraag.mp3" type="audio/mpeg">
