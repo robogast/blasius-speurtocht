@@ -14,6 +14,7 @@
 <audio controls>
   <source src="https://raw.githubusercontent.com/robogast/blasius-speurtocht/master/mp3/stap10-hint.mp3" type="audio/mpeg">
 </audio>
+![](../img/locatie-10-hint.png)
 
 ## Volgende locatie
 [Klik hier als je weet waar je heen moet voor locatie 10](locatie-10)
