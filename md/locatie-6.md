@@ -15,6 +15,8 @@
   <source src="https://raw.githubusercontent.com/robogast/blasius-speurtocht/master/mp3/stap7-hint.mp3" type="audio/mpeg">
 </audio>
 
+![](../img/locatie-7-hint.jpg)
+
 ## Volgende locatie
 [Klik hier als je weet waar je heen moet voor locatie 7](locatie-7)
 
