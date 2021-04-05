@@ -10,4 +10,4 @@
   <source src="https://raw.githubusercontent.com/robogast/blasius-speurtocht/master/mp3/stap2-hint.mp3" type="audio/mpeg">
 </audio>
 
-[Klik hier als je weet waar je heen moet voor locatie 2](locatie-2.md)
+[Klik hier als je weet waar je heen moet voor locatie 2](locatie-2)
