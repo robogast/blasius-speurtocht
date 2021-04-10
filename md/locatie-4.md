@@ -1,4 +1,5 @@
 # Locatie 4: Hortus Botanicus
+![](../img/hortus-medicus-banner.png)
 
 ## Foto-opdracht
 <audio controls>

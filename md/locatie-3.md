@@ -1,4 +1,5 @@
 # Locatie 3: De Waag
+![](../img/de-waag-banner.jpg)
 
 ## Foto-opdracht
 <audio controls>

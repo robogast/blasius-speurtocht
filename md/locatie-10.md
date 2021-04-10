@@ -1,4 +1,5 @@
 # Locatie 10: Burgerziekenhuis
+![](../img/burgerziekenhuis-banner.png)
 
 ## Foto-opdracht
 <audio controls>

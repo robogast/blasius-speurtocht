@@ -1,4 +1,5 @@
 # Locatie 7: Oosterparkbuurt
+![](../img/oosterparkbuurt-banner.png)
 
 ## Foto-opdracht
 <audio controls>

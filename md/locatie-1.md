@@ -1,4 +1,5 @@
 # Locatie 1: Agnietenkapel
+![](../img/agnietenkapel-banner.jpg)
 
 ## Vraag
 <audio controls>

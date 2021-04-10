@@ -1,4 +1,5 @@
 # Locatie 6: Sarphatistraat
+![](../img/sarphatistraat-banner.jpg)
 
 ## Foto-opdracht
 <audio controls>

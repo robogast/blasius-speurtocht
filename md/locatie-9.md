@@ -1,4 +1,5 @@
 # Locatie 9: Koninklijk Instituut voor de Tropen
+![](../img/kit-banner.jpg)
 
 ## Foto-opdracht
 <audio controls>

@@ -1,4 +1,5 @@
 # Locatie 8: OLVG Oost
+![](../img/olvg-oost-banner.jpg)
 
 ## Foto-opdracht
 <audio controls>

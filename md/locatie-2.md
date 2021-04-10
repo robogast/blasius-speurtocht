@@ -1,4 +1,5 @@
 # Locatie 2: 't Gast-Huys
+![](../img/gast-huys-banner.jpg)
 
 ## Foto-opdracht
 <audio controls>
