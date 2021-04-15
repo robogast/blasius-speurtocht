@@ -9,7 +9,7 @@ Wat leuk dat je meedoet met deze speurtocht! In de komende paar uur zul je aan d
 Zorg dat je telefoon is opgeladen en een werkende camera heeft. 
 Houd ook pen en papier bij de hand of gebruik de notitie-app van je telefoon. 
 
-Tijdens deze tocht zul je telkens een cryptische hint naar het volgende punt ontvangen. Heb je de hint ontcijferd en weet je waar je heen moet? Dan kun je naar de volgende pagina, waar je de vraag en (foto-)opdracht voor die locatie zult vinden. Noteer het antwoord op de vragen op papier of in je telefoon.
+Tijdens deze tocht zul je telkens een cryptische hint naar het volgende punt ontvangen. Er zijn in totaal 11 locaties, inclusief de start. Heb je de hint ontcijferd en weet je waar je heen moet? Dan kun je naar de volgende pagina, waar je de vraag en (foto-)opdracht voor die locatie zult vinden. Noteer het antwoord op de vragen op papier of in je telefoon.
 
 Ook vind je onderaan de pagina achtergrondinformatie over de locatie waar je op dat moment staat en de hint naar de volgende locatie.
 N.B.: in principe zijn de vragen te beantwoorden met hints uit de omgeving, en anders met algemene kennis en een beetje creativiteit. Je hebt dus GEEN internet nodig, behalve Google Maps. Mocht je er echt niet uitkomen kan je altijd om een extra hint vragen.
