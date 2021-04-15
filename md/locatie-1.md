@@ -15,4 +15,5 @@
 
 ## Achtergrondinformatie Agnietenkapel
 Vanaf 1632 werd in de Agnietenkape een voortgezette opleiding na de Latijnse school aangeboden. Deze bereidde de jongens voor op een studie aan de universiteiten. De eerste hoogleraren van deze opleiding waren Gerard Vossius en Caspar Barleaus. Vossius doceerde kerkgeschiedenis, letteren en welsprekendheid. Barlaeus doceerde wijsbegeerte. In 1660 werd Gerard Blasius benoemd tot hoogleraar Geneeskunde en gaf in deze hoedanigheid colleges in anatomie, geneesmiddelenleer en chemie. 
+
 In 1877 werd de onderwijsinstelling dan echt een universiteit toen het promotierecht werd verleend. Sinds 2010 vinden er weer promoties plaats in de Agnietenkapel.
