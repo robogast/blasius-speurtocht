@@ -1,11 +1,6 @@
 # Locatie 5: GGD Weesperstraat
 ![](../img/ggd-weesperstraat-banner.png)
 
-## Foto-opdracht
-<audio controls>
-  <source src="https://raw.githubusercontent.com/robogast/blasius-speurtocht/master/mp3/stap5-foto.mp3" type="audio/mpeg">
-</audio>
-
 ## Vraag
 <audio controls>
   <source src="https://raw.githubusercontent.com/robogast/blasius-speurtocht/master/mp3/stap5-vraag.mp3" type="audio/mpeg">
