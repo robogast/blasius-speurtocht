@@ -12,7 +12,7 @@
 </audio>
 
 ## Over de GGD Weesperstraat
-Oorspronkelijk bevond zich hier een verpleeginstelling, maar nadat het leeg kwam te staan vestigde zich hier het Weesperplein Ziekenhuis, dat in 1976 opging in het nieuwe Slotervaart Ziekenhuis. Hierdoor kwam er ruimte vrij en kon de GGD zich hier vestigen. Het staat nu met name bekend als soa-polikliniek, maar de GGD biedt hier ook hulp aan veslaafden in het Geïntegreerde Voorzieningen Centrum.
+Oorspronkelijk bevond zich hier een verpleeginstelling, maar nadat het leeg kwam te staan vestigde zich hier het Weesperplein Ziekenhuis, dat in 1976 opging in het nieuwe Slotervaart Ziekenhuis. Hierdoor kwam er ruimte vrij en kon de GGD zich hier vestigen. Het staat nu met name bekend als soa-polikliniek, maar de GGD biedt hier bijvoorbeeld ook hulp aan veslaafden in het Geïntegreerde Voorzieningen Centrum.
 
 ## Hint naar locatie 6
 <audio controls>
