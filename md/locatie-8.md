@@ -1,4 +1,4 @@
-# Locatie 8: OLVG Oost
+# Locatie 8: OLVG, locatie Oost
 ![](../img/olvg-oost-banner.jpg)
 
 ## Foto-opdracht
@@ -12,11 +12,12 @@
   <source src="https://raw.githubusercontent.com/robogast/blasius-speurtocht/master/mp3/stap8-vraag.mp3" type="audio/mpeg">
 </audio>
 
+## Over het OLVG, locatie Oost
+
 ## Hint naar locatie 9
 <audio controls>
   <source src="https://raw.githubusercontent.com/robogast/blasius-speurtocht/master/mp3/stap9-hint.mp3" type="audio/mpeg">
 </audio>
 
-## Volgende locatie
 [Klik hier als je weet waar je heen moet voor locatie 9](locatie-9)
 
