@@ -15,6 +15,6 @@ Ook vind je onderaan de pagina achtergrondinformatie over de locatie waar je op 
 N.B.: in principe zijn de vragen te beantwoorden met hints uit de omgeving, en anders met algemene kennis en een beetje creativiteit. Je hebt dus GEEN internet nodig, behalve Google Maps. Mocht je er echt niet uitkomen kan je altijd om een extra hint vragen.
 
 ## Start
-Pak je fiets en ga richting het startpunt: **de Agnietenkapel**. Op 12 november 1669 begon hier de tocht naar de eerste klinische les van Gerard Blasius in Amsterdam. Vanaf hier nam hij zijn studenten mee om de theorie die ze in de Agnietenkapel leerden nu in de praktijk te zien. Zodra je bent gearriveerd, zou ik je willen vragen om je live locatie aan te zetten en aan te houden gedurende de hele tocht. 
+Pak je fiets en ga richting het startpunt: **de Agnietenkapel**. Op 12 november 1669 begon hier de tocht naar de eerste klinische les van Gerard Blasius in Amsterdam. Vanaf hier nam Blasius zijn studenten mee om de theorie nu ook in de praktijk te zien. Zodra je bent gearriveerd, zou ik je willen vragen om je live locatie aan te zetten en aan te houden gedurende de hele tocht. 
 
 [Klik hier als je gearriveerd bent bij locatie 1](md/locatie-1)
